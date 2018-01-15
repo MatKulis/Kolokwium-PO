@@ -1,0 +1,16 @@
+﻿<Window x:Class="Kolos.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        Title="MainWindow" Height="350" Width="525">
+    <Grid>
+        <Label Content="Rodzaj Okna :" HorizontalAlignment="Left" Height="32" Margin="71,67,0,0" VerticalAlignment="Top" Width="97"/>
+        <Label Content="Rodzaj Drzwi :" HorizontalAlignment="Left" Height="30" Margin="71,124,0,0" VerticalAlignment="Top" Width="97"/>
+        <Label Content="Kolor Elewacji :" HorizontalAlignment="Left" Height="24" Margin="71,188,0,0" VerticalAlignment="Top" Width="97"/>
+        <Button Content="Zbuduj Blok" HorizontalAlignment="Left" Height="32" Margin="362,88,0,0" VerticalAlignment="Top" Width="116" Click="Button_Click"/>
+        <Button Content="Zbuduj Dom" HorizontalAlignment="Left" Height="32" Margin="362,167,0,0" VerticalAlignment="Top" Width="116" Click="Button_Click_1"/>
+        <TextBox HorizontalAlignment="Left" Height="30" Margin="207,69,0,0" TextWrapping="Wrap" Text="" VerticalAlignment="Top" Width="119" TextChanged="TextBox_TextChanged_1"/>
+        <TextBox HorizontalAlignment="Left" Height="30" Margin="207,124,0,0" TextWrapping="Wrap" Text="" VerticalAlignment="Top" Width="119" TextChanged="TextBox_TextChanged"/>
+        <ComboBox HorizontalAlignment="Left" Height="33" Margin="207,188,0,0" VerticalAlignment="Top" Width="119" SelectionChanged="ComboBox_SelectionChanged"/>
+
+    </Grid>
+</Window>

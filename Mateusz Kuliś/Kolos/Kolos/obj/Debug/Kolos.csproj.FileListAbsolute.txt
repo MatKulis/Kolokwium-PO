@@ -1,0 +1,13 @@
+C:\Users\local\Desktop\Mateusz Kuliś\Kolos\Kolos\bin\Debug\Kolos.exe.config
+C:\Users\local\Desktop\Mateusz Kuliś\Kolos\Kolos\obj\Debug\Kolos.csprojResolveAssemblyReference.cache
+C:\Users\local\Desktop\Mateusz Kuliś\Kolos\Kolos\obj\Debug\MainWindow.baml
+C:\Users\local\Desktop\Mateusz Kuliś\Kolos\Kolos\obj\Debug\MainWindow.g.cs
+C:\Users\local\Desktop\Mateusz Kuliś\Kolos\Kolos\obj\Debug\App.g.cs
+C:\Users\local\Desktop\Mateusz Kuliś\Kolos\Kolos\obj\Debug\Kolos_MarkupCompile.cache
+C:\Users\local\Desktop\Mateusz Kuliś\Kolos\Kolos\obj\Debug\Kolos.g.resources
+C:\Users\local\Desktop\Mateusz Kuliś\Kolos\Kolos\obj\Debug\Kolos.Properties.Resources.resources
+C:\Users\local\Desktop\Mateusz Kuliś\Kolos\Kolos\obj\Debug\Kolos.csproj.GenerateResource.Cache
+C:\Users\local\Desktop\Mateusz Kuliś\Kolos\Kolos\bin\Debug\Kolos.exe
+C:\Users\local\Desktop\Mateusz Kuliś\Kolos\Kolos\bin\Debug\Kolos.pdb
+C:\Users\local\Desktop\Mateusz Kuliś\Kolos\Kolos\obj\Debug\Kolos.exe
+C:\Users\local\Desktop\Mateusz Kuliś\Kolos\Kolos\obj\Debug\Kolos.pdb
